@@ -1,0 +1,27 @@
+\select@language {portuges}
+\contentsline {section}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{2}
+\contentsline {section}{\numberline {2}Descri\IeC {\c c}\IeC {\~a}o do Problema}{2}
+\contentsline {section}{\numberline {3}Concep\IeC {\c c}\IeC {\~a}o da Solu\IeC {\c c}\IeC {\~a}o}{2}
+\contentsline {subsection}{\numberline {3.1}Porqu\IeC {\^e} da HashTable}{2}
+\contentsline {section}{\numberline {4}A Estrutura}{2}
+\contentsline {subsection}{\numberline {4.1}h_IDUtilizador}{3}
+\contentsline {subsection}{\numberline {4.2}h_IDPerguntas}{3}
+\contentsline {subsection}{\numberline {4.3}h_IDRespostas}{4}
+\contentsline {subsection}{\numberline {4.4}h_IDTags}{4}
+\contentsline {section}{\numberline {5}Extra\IeC {\c c}\IeC {\~a}o de Informa\IeC {\c c}\IeC {\~a}o}{4}
+\contentsline {subsection}{\numberline {5.1}Pergunta 1}{4}
+\contentsline {subsection}{\numberline {5.2}Perguntas 2,3,4,5,6,7,8,9,10,11}{4}
+\contentsline {subsubsection}{\numberline {5.2.1}Pergunta 2}{5}
+\contentsline {subsubsection}{\numberline {5.2.2}Pergunta 3}{5}
+\contentsline {subsubsection}{\numberline {5.2.3}Pergunta 4}{5}
+\contentsline {subsubsection}{\numberline {5.2.4}Pergunta 5}{5}
+\contentsline {subsubsection}{\numberline {5.2.5}Pergunta 6}{5}
+\contentsline {subsubsection}{\numberline {5.2.6}Pergunta 7}{5}
+\contentsline {subsubsection}{\numberline {5.2.7}Pergunta 8}{5}
+\contentsline {subsubsection}{\numberline {5.2.8}Pergunta 9}{5}
+\contentsline {subsubsection}{\numberline {5.2.9}Pergunta 10}{5}
+\contentsline {subsubsection}{\numberline {5.2.10}Pergunta 11}{6}
+\contentsline {section}{\numberline {6}Resultados}{6}
+\contentsline {section}{\numberline {7}Teste de Tempo}{6}
+\contentsline {section}{\numberline {8}Memory Leaks}{6}
+\contentsline {section}{\numberline {9}Conclus\IeC {\~a}o}{7}
