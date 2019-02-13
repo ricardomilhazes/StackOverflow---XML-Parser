@@ -1,0 +1,26 @@
+\select@language {portuges}
+\contentsline {section}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{2}
+\contentsline {section}{\numberline {2}Descri\IeC {\c c}\IeC {\~a}o do Problema}{2}
+\contentsline {section}{\numberline {3}Concep\IeC {\c c}\IeC {\~a}o da Solu\IeC {\c c}\IeC {\~a}o}{2}
+\contentsline {subsection}{\numberline {3.1}Porqu\IeC {\^e} da HashTable}{2}
+\contentsline {section}{\numberline {4}A Estrutura}{3}
+\contentsline {subsection}{\numberline {4.1}id_utilizador}{3}
+\contentsline {subsection}{\numberline {4.2}id_perguntas}{3}
+\contentsline {subsection}{\numberline {4.3}id_respostas}{4}
+\contentsline {subsection}{\numberline {4.4}id_tags}{4}
+\contentsline {section}{\numberline {5}Extra\IeC {\c c}\IeC {\~a}o de Informa\IeC {\c c}\IeC {\~a}o}{5}
+\contentsline {subsection}{\numberline {5.1}Pergunta 1}{5}
+\contentsline {subsection}{\numberline {5.2}Pergunta 2}{5}
+\contentsline {subsection}{\numberline {5.3}Pergunta 3}{5}
+\contentsline {subsection}{\numberline {5.4}Pergunta 4}{5}
+\contentsline {subsection}{\numberline {5.5}Pergunta 5}{5}
+\contentsline {subsection}{\numberline {5.6}Pergunta 6}{5}
+\contentsline {subsection}{\numberline {5.7}Pergunta 7}{6}
+\contentsline {subsection}{\numberline {5.8}Pergunta 8}{6}
+\contentsline {subsection}{\numberline {5.9}Pergunta 9}{6}
+\contentsline {subsection}{\numberline {5.10}Pergunta 10}{6}
+\contentsline {subsection}{\numberline {5.11}Pergunta 11}{6}
+\contentsline {section}{\numberline {6}LI3 em java vs LI3 em C}{7}
+\contentsline {section}{\numberline {7}Resultados}{7}
+\contentsline {section}{\numberline {8}Teste de Tempo}{7}
+\contentsline {section}{\numberline {9}Conclus\IeC {\~a}o}{8}

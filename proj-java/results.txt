@@ -1,0 +1,20 @@
+Query1 -> (What are the actual risks of giving www-data sudo nopasswd access?, WebNinja)
+Query 2 -> [15811, 449, 158442, 59676, 167850, 367165, 295286, 93977, 35795, -1]
+Query 3 -> (3545, 4012)
+Query 4 -> [276174, 276029, 274462, 274324, 274316, 274141, 274100, 272937, 272813, 272754, 272666, 272565, 272450, 272313, 271816, 271683, 271647, 270853, 270608, 270528, 270488, 270188, 270014, 269876, 269781, 269095, 268501, 268155, 267746, 267656, 267625, 266742, 266335, 266016, 265531, 265483, 265443, 265347, 265104, 265067, 265028, 264764, 264762, 264616, 264525, 264292, 263816, 263740, 263460, 263405, 263378, 263253, 262733, 262574]
+Query 5 -> (<p>Hi, I'm Oli and I'm a "full-stack" web-dev-op. Eurgh. I'm also allergic to jargon BS.</p>
+
+<p>I spend most of my professional time writing Django websites and webapps for SMEs. I write a lot of Python outside of Django sites too. I administer various Linux servers for various tasks. I contribute to the open source projects that I use when I can.</p>
+
+<p>I'm a full-time Linux user and that has lead to helping other people live the dream. I am an official Ubuntu Member and I earnt my ? on SE's own <a href="http://askubuntu.com/users/449/oli">Ask Ubuntu</a> in <a href="https://askubuntu.com/election/1">2011's moderator election</a>. That's probably where I spend most of my <em>unpaid</em> time.</p>
+
+<p>I also run <a href="http://thepcspy.com" rel="nofollow">thepcspy.com</a> which has been my place to write for the last decade or so.</p>
+
+<p>If you need to contact me for extended help, <a href="https://thepcspy.com/contact/" rel="nofollow">you can do so via my website</a>, just remember that I have bills so if I feel your request is above and beyond normal duty, I might ask for remuneration for one-on-one support. For more social contact, you can usually find me (or just my computer) lurking in the <a href="https://chat.stackexchange.com/rooms/201/ask-ubuntu-general-room">Ask Ubuntu General Chat Room</a> and on Freenode in #ubuntu and #ubuntu-uk under the handle Oli or Oli``.</p>
+, [867, 991, 1403, 1596, 1662, 1763, 3094, 3182, 527501, 3340])
+Query6 -> [701775, 697197, 694560, 696641, 693722]
+Query 7 -> [505506, 506510, 508221, 505368, 505581, 506824, 508029, 505333, 507139, 508358]
+Query 8 -> [980835, 979082, 974117, 974105, 973832, 971812, 971056, 968451, 964999, 962770]
+Query 9 -> [594, 594, 594, 594, 594, 594, 594, 594, 594, 594]
+Query 10 -> 5963
+Query 11 -> [6, 29, 72, 163, 587]
